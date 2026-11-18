@@ -1,4 +1,4 @@
-# neural-networks
+# Neural Networks
 
 ```mermaid
 graph LR
