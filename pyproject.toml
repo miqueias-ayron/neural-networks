@@ -7,6 +7,7 @@ requires-python = ">=3.11"
 dependencies = [
     "matplotlib>=3.11.2",
     "numpy>=2.4.6",
+    "scikeras>=0.13.0",
     "scikit-learn>=1.9.1",
     "tensorflow>=2.21.0",
     "ucimlrepo>=0.0.7",
